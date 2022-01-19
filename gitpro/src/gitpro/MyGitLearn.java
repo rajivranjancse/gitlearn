@@ -5,7 +5,7 @@ public static void main(String ar[])
 {
 
 {
-	System.out.println("hi from git");
+	System.out.println("hi from git 2");
 }
 
 	
